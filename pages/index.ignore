@@ -3,3 +3,4 @@ function Home() {
 }
 
 export default Home;
+px vercel inspect dpl_DaVT7op6vqWJsTmLJzdKLDea2azJ --logs
