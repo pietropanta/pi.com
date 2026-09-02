@@ -1,0 +1,45 @@
+body{
+    background-color: brown;
+    color: white;
+    font: normal 40px TimeNewsRoman;
+     
+}
+h1{
+    background-color: rgb(70, 58, 58);
+    width: 760px;
+    padding: 15px;
+    border-radius: 100px;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.562);
+}
+section{
+    background-color: rgb(70, 58, 58);
+    height: 240px;
+    margin:auto;
+    margin-top: 30px;
+    width: 760px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 80px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.562);
+}
+div{
+
+}
+img{
+    border-radius: 1000px;
+    padding: 10px;
+}
+input#txt{
+    font: normal 40px TimeNewsRoman;
+    text-align: center;
+    border-radius: 40px;
+}
+footer{
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    font-style: italic;
+}
